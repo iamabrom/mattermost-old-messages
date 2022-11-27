@@ -1,3 +1,5 @@
+This was originally forked from the [mattermost-old-messages](https://gitlab.com/InstitutMaupertuis/mattermost-old-messages) repo from the InstitutMaupertuis on GitLab.
+---
 This guide will help you delete old messages and attachments from your Mattermost Open Source edition server.
 
 This procedure is very similar to what the [data retention](https://docs.mattermost.com/administration/data-retention.html) option of Mattermost `Enterprise Edition E20` does.
